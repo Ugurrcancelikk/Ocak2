@@ -1,0 +1,15 @@
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\bin\Debug\net9.0\Ocak2.exe
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\bin\Debug\net9.0\Ocak2.deps.json
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\bin\Debug\net9.0\Ocak2.runtimeconfig.json
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\bin\Debug\net9.0\Ocak2.dll
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\bin\Debug\net9.0\Ocak2.pdb
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.AssemblyInfoInputs.cache
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.AssemblyInfo.cs
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.sourcelink.json
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.dll
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\refint\Ocak2.dll
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.pdb
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\Ocak2.genruntimeconfig.cache
+C:\Users\ugrst\Documents\GitHub\Ocak2\Ocak2\Ocak2\obj\Debug\net9.0\ref\Ocak2.dll
